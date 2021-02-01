@@ -1,1 +1,1 @@
-Demonstration of my programming skills using python. This was the assignment submitted in my python class at the University. Open ".py" file for the code.
+Demonstration of my programming skills using python. This was the assignment submitted in my python class at the University. The task for this project is to write a python program that can calculate the distribution of digits for numbers found in a certain file. Refer for ".py" file for the code.
